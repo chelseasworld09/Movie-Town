@@ -1,0 +1,13 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+$princess-background-color: #cbe5f8;
+$text-color: #080808;
+
+body {
+  background: $princess-background-color;
+  color: $text-color;
+}
+
+.box-bg {
+  background: seagreen;
+}
