@@ -11,3 +11,17 @@ body {
 .box-bg {
   background: seagreen;
 }
+
+.box-bg {
+  background: peru;
+}
+$icon-font-path: "~bootstrap-sass/assets/fonts/bootstrap/";
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+$holiday-background-color: #cbe5f8;
+$text-color: #faf7f7;
+
+body {
+  background: $princess-background-color;
+  color: $text-color;
+}
